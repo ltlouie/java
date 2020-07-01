@@ -24,7 +24,7 @@ public class TestString {
 		System.out.println("compare string Hello to hello" + input_string.compareToIgnoreCase("hello"));
 		System.out.println("contact string with Hello and Lawrene is " + input_string.concat(name));
 		System.out.println("contains string Hello with He -->" + input_string.contains("He"));
-		System.out.println("endstring with Hello with lo -->" + input_string.endsWith("o"));
+		System.out.println("endstring with Hello with o -->" + input_string.endsWith("o"));
 		System.out.println("substring (1,3) with Hello is  -->" + input_string.substring(1, 3));
 		System.out.println("index of Hello of l is --> " + input_string.indexOf('l')); 
 		System.out.println("lastindex of Hello of l is --> " + input_string.lastIndexOf('l'));

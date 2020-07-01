@@ -6,6 +6,11 @@ M: Mathematics
 C: Computer Science
 I: Information Technology
 
+1: freshman
+2: Sophomore
+3: Junior
+4: Senior
+
 M1 becomes Mathematics Freshman
 C3 becomes Computer Science Junior
 T3 becomes invalid input
@@ -15,7 +20,7 @@ public class StudentMajorStatus {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String input = "C5";
+		String input = "C2";
 		
 		char c = input.charAt(0);
 		String output = null;

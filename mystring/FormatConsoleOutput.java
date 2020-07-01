@@ -18,7 +18,7 @@ public class FormatConsoleOutput {
 		// 2 is the precision
 		// f is the format specifier
 		System.out.printf("Interest is $%4.2f", interest);
-		
+	
 	}
 
 }

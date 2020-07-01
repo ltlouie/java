@@ -10,5 +10,5 @@ public class CharacterMethod {
 		System.out.println(Character.isUpperCase('a')); // false
 		System.out.println(Character.toUpperCase('a')); // A
 	}
-
 }
+

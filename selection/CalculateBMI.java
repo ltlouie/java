@@ -42,7 +42,6 @@ public class CalculateBMI {
 			System.out.println("Obess");
 		}
 		
-		
 	}
 
 }

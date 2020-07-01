@@ -16,7 +16,7 @@ public class DayOfTheWeek {
 		// if 2012 is year, 5 is month, and dayof the month is 12, then day of week is Saturday
 		int year = 2020;
 		int m = 6;  //m is month 
-		int q = 21; //q is day of the month
+		int q = 20; //q is day of the month
 	
 		if (m == 1)
 		{

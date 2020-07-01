@@ -10,5 +10,4 @@ public class MaxMinAbs {
 		System.out.println(Math.abs(-2)); // return 2
 		System.out.println(Math.abs(-2.1));  // return 2.1
 	}
-
 }

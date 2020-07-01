@@ -8,8 +8,11 @@ public class CheckIfEvenNumber {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner (System.in);
 		
+		/* 
 		System.out.print("Give me a number to check if it is even: ");
 		int num = scanner.nextInt();
+		*/
+		int num = 3;
 		
 		if (num % 2 == 0) 
 		{
